@@ -1,0 +1,7 @@
+*~
+*.bak
+*.orig
+Pipfile*
+__pycache__
+build/*
+*.mo
