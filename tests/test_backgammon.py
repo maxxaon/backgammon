@@ -15,7 +15,7 @@ import unittest
 from src.backgammon import Backgammon
 
 
-class TestStringMethods(unittest.TestCase):
+class TestBackgammon(unittest.TestCase):
     def test_is_end_move(self):
         backgammon = Backgammon(turn=Backgammon.Turn.WHITE)
 
