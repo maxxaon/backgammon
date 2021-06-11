@@ -1,0 +1,6 @@
+pydoctest
+babel
+tk
+flake8
+black
+coverage
