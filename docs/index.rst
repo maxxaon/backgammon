@@ -10,8 +10,9 @@ Welcome to Backgammon's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   API
-
+   backgammon
+   backgammon_frame
+   dice_frame
 
 Indices and tables
 ==================
