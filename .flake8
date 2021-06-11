@@ -1,5 +1,5 @@
 [flake8]
 max-line-length = 120
-ignore = D203, E128, E117, E126
+ignore = W503
 builtins = _, ngettext
-exclude = .git,__pycache__
+exclude = .git,__pycache__,python-virtual-environment

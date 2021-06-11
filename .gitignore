@@ -5,3 +5,6 @@ Pipfile*
 __pycache__
 build/*
 *.mo
+*.pot
+env/*
+.coverage
